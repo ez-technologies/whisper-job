@@ -1,0 +1,73 @@
+{
+  "_comment": "Invented sentences. {a|b|c} marks one spoken phrase and the written forms accepted for it: the first is what the speech model is given, and the score uses whichever form gives the fewest errors.",
+  "he": [
+    "המעלית בבניין {ארבע|4} מקולקלת מאז יום שני בבוקר.",
+    "אסיפת הדיירים תתקיים {בשנים עשר במרץ|ב 12 במרץ|ב 12 למרץ|ב 12 3} בשעה {שמונה וחצי|8 30} בערב.",
+    "דמי הוועד החודשיים הם {מאתיים וחמישים|250} שקלים.",
+    "יש נזילת מים בקומה {השלישית|3} מעל החניה.",
+    "נא לשלם את חשבון הניקיון עד סוף החודש.",
+    "החשמלאי יגיע ביום שלישי, {החמישי במאי|ה 5 במאי|5 במאי|ב 5 במאי}.",
+    "דירה {שבע עשרה|17} מתלוננת על רעש מהגג.",
+    "קוד דלת הכניסה הוחלף, צריך להתקשר ליושב ראש הוועד."
+  ],
+  "en": [
+    "The elevator in building {four|4} has been out of order since Monday morning.",
+    "The residents' meeting will take place on {the twelfth of March|March 12|March 12th|12 March|the 12th of March} at {half past eight|8 30} in the evening.",
+    "The monthly maintenance fee is {two hundred and fifty|250} euros.",
+    "There is a water leak on the {third|3rd} floor above the parking garage.",
+    "Please pay the cleaning bill before the end of the month.",
+    "The electrician will arrive on Tuesday, {the fifth of May|May 5|May 5th|the 5th of May}.",
+    "Apartment {seventeen|17} complains about noise from the roof.",
+    "The code for the front door has changed, so please call the committee chair."
+  ],
+  "es": [
+    "El ascensor del edificio {cuatro|4} está averiado desde el lunes por la mañana.",
+    "La reunión de vecinos será el {doce de marzo|12 de marzo} a las {ocho y media|8 30} de la tarde.",
+    "La cuota mensual de mantenimiento es de {doscientos cincuenta|250} euros.",
+    "Hay una fuga de agua en el {tercer|3er|3} piso, encima del garaje.",
+    "Por favor, paguen la factura de limpieza antes de fin de mes.",
+    "El electricista vendrá el martes {cinco de mayo|5 de mayo}.",
+    "El apartamento {diecisiete|17} se queja del ruido que viene de la azotea.",
+    "El código de la puerta de entrada ha cambiado, llamen al presidente de la comunidad."
+  ],
+  "pt": [
+    "O elevador do prédio {quatro|4} está quebrado desde segunda-feira de manhã.",
+    "A reunião de condomínio será no dia {doze de março|12 de março} às {oito e meia|8 30} da noite.",
+    "A taxa mensal de manutenção é de {duzentos e cinquenta|250} reais.",
+    "Há um vazamento de água no {terceiro|3} andar, acima da garagem.",
+    "Por favor, paguem a conta da limpeza antes do fim do mês.",
+    "O eletricista virá na terça-feira, dia {cinco de maio|5 de maio}.",
+    "O apartamento {dezessete|17} reclama do barulho que vem do telhado.",
+    "O código da porta de entrada mudou, liguem para o síndico."
+  ],
+  "ar": [
+    "المصعد في المبنى {أربعة|4} معطل منذ صباح يوم الاثنين.",
+    "سيعقد اجتماع السكان في {الثاني عشر من مارس|12 مارس|12 من مارس} الساعة {الثامنة والنصف|8 30} مساء.",
+    "رسوم الصيانة الشهرية {مائتان وخمسون|250} دولارا.",
+    "هناك تسرب مياه في الطابق {الثالث|3} فوق موقف السيارات.",
+    "يرجى دفع فاتورة التنظيف قبل نهاية الشهر.",
+    "سيأتي الكهربائي يوم الثلاثاء {الخامس من مايو|5 مايو|5 من مايو}.",
+    "الشقة {سبعة عشر|17} تشتكي من الضجيج القادم من السطح.",
+    "تم تغيير رمز باب المدخل، يرجى الاتصال برئيس اللجنة."
+  ],
+  "ru": [
+    "Лифт в доме {четыре|4} не работает с утра понедельника.",
+    "Собрание жильцов состоится {двенадцатого марта|12 марта} в {половине девятого|8 30} вечера.",
+    "Ежемесячный взнос на обслуживание составляет {двести пятьдесят|250} рублей.",
+    "На {третьем|3} этаже над парковкой протекает вода.",
+    "Пожалуйста, оплатите счёт за уборку до конца месяца.",
+    "Электрик придёт во вторник, {пятого мая|5 мая}.",
+    "Квартира {семнадцать|17} жалуется на шум с крыши.",
+    "Код входной двери изменился, позвоните председателю комитета."
+  ],
+  "fr": [
+    "L'ascenseur de l'immeuble {quatre|4} est en panne depuis lundi matin.",
+    "La réunion des résidents aura lieu le {douze mars|12 mars} à {huit heures et demie|8 h 30|8 heures et demie|20 h 30} du soir.",
+    "Les charges mensuelles sont de {deux cent cinquante|250} euros.",
+    "Il y a une fuite d'eau au {troisième|3e} étage, au-dessus du parking.",
+    "Merci de payer la facture de nettoyage avant la fin du mois.",
+    "L'électricien viendra mardi {cinq mai|5 mai}.",
+    "L'appartement {dix-sept|17} se plaint du bruit venant du toit.",
+    "Le code de la porte d'entrée a changé, appelez le président du conseil."
+  ]
+}
